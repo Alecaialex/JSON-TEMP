@@ -1,0 +1,80 @@
+{
+    "equipos": [
+        {
+            "nombre": "Atletico de Madrid",
+            "ciudad": "Madrid",
+            "estadio": "Metropolitano"
+        },
+        {
+            "nombre": "Barcelona",
+            "ciudad": "Barcelona",
+            "estadio": "Camp Nou"
+        },
+        {
+            "nombre": "AS Roma",
+            "ciudad": "Roma",
+            "estadio": "Olimpico"
+        }
+
+    ],
+
+    "jugadores": [
+        {
+            "nombre": "Lamine Yamal",
+            "equipo": "Barcelona",
+            "dorsal": 19
+        },
+        {
+            "nombre": "Antoine Griezmann",
+            "equipo": "Atletico de Madrid",
+            "dorsal": 7
+        },
+        {
+            "nombre": "Paulo Dybala",
+            "equipo": "AS Roma",
+            "dorsal": 21
+        }
+    ],
+
+    "entrenadores": [
+        {
+            "nombre": "Diego Pablo Simeone",
+            "equipo": "Atletico de Madrid"
+        },
+        {
+            "nombre": "Hansi Flick",
+            "equipo": "Barcelona"
+        },
+        {
+            "nombre": "Claudio Ranieri",
+            "equipo": "AS Roma"
+        }
+    ],
+
+    "partidos": [
+        {
+            "equipo1": "Atletico de Madrid",
+            "equipo2": "Barcelona",
+            "resultado": "2-2"
+        },
+        {
+            "equipo1": "AS Roma",
+            "equipo2": "Atletico de Madrid",
+            "resultado": "1-3"
+        },
+        {
+            "equipo1": "Barcelona",
+            "equipo2": "AS Roma",
+            "resultado": "4-0"
+        }
+    ],
+
+    "mejores": [
+        "Julian Alvarez",
+        "Antoine Griezmann",
+        "Angel Correa"
+    ],
+
+    "fecha": 2025,
+    "nombre": "Alejandro Sanz"
+}
